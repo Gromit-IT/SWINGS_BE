@@ -10,4 +10,5 @@ public class SwingsBeApplication {
         SpringApplication.run(SwingsBeApplication.class, args);
     }
 
+    //한국말
 }
